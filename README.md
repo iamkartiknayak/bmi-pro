@@ -10,11 +10,11 @@ This is a BMI (Body Mass Index) Calculator app developed using Flutter. The app 
 ### Installation
 #### Clone the repository using the following command:
 ```bash
-git clone https://github.com/iamkartiknayak/Flutter_TIC_TAC_TOE.git
+git clone https://github.com/iamkartiknayak/bmi-pro.git
 ```
 #### Rename the project directory before running flutter commands
 ```bash
-mv Flutter_BMI_Pro bmi_pro
+mv bmi-pro bmi_pro
 ```
 #### Navigate to the project directory:
 ```bash 
